@@ -13,7 +13,7 @@ output options. The project includes error handling functionalities, ensuring a 
 To test the script, follow these steps:
 
 1. **Clone the Repository:**
-   git clone [git@github.com:NatalioF22/DataFilter.git](https://github.com/natalio-f-gomes/Data-Filter.git)
+   git clone [git@github.com:natalio-f-gomes/Data-Filter.git](https://github.com/natalio-f-gomes/Data-Filter.git)
    cd COMP390_Individual_Project1.2
 
 2. **Run the Script:**
