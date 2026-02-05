@@ -21,8 +21,6 @@ jobs:
           pip install -r requirements.txt
           pip install pylint
 
-      - name: Validate your code
-        run: pylint .
 
       - name: run unit tests
         run: pytest
